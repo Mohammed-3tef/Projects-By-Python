@@ -1,3 +1,7 @@
+# Purpose : Subtract a Square game in python, where 2 players alternate in entering a perfect square number
+#           to try to get a random number of coins to be 0, where the player that takes the last coin wins.
+# ============================================================================================================================================= #
+
 from random import randint as r
 
 # Printing welcome screen
