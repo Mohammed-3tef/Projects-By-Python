@@ -1,3 +1,6 @@
+# Program: Numbering System Converter (Decimal - Binary - Hexadecimal - Octal).
+# ========================================================================================================================================= #
+
 def check_num(num):
     characters = "0123456789AaBbCcDdEeFf"
     for x in num:
