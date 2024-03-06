@@ -1,3 +1,6 @@
+# Purpose: Binary Calculator (Addition - Subtraction - One's Complement - Two's Complement).
+# ========================================================================================================================================== #
+
 def check_bin(num):                                                  # Check the number is binary or not?
     bin_characters = "01"
     for x in num:
